@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sano_app</string>
+    <string name="home_title">My app</string>
 </resources>

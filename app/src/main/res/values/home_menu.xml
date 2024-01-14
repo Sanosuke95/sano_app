@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>music</item>
+        <item>movies</item>
+        <item>scan</item>
+        <item>settings</item>
+    </string-array>
+</resources>
